@@ -1,0 +1,4 @@
+#demoLabel {
+    color: floralwhite;
+    font-size: 24px;
+}
